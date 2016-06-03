@@ -1,0 +1,2 @@
+# projekt-IPC
+Pierwszy commit
